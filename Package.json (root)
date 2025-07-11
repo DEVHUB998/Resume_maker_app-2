@@ -1,0 +1,9 @@
+{
+  "name": "resume-maker-app-root",
+  "private": true,
+  "scripts": {
+    "install-all": "npm install --prefix client",
+    "dev": "npm run dev --prefix client",
+    "build": "npm run build --prefix client"
+  }
+}
